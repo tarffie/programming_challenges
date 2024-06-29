@@ -1,19 +1,9 @@
 <?php
 class Markov_Sentence_Generator
 { 
-    public $tempMapping;
-    public $mapping;
-    public $starts;
+    private $mapping;
+    private $starts;
     
-    // private function to_hash(array $list):array
-    // {
-    //     $arr = array();
-    //     foreach($list[0] as $key => $word)
-    //     {
-    //         $arr[$key] = $this->fixCaps($word);
-    //     }
-    //     return $arr;
-    // }
     private function parse_file(string $file_name):array 
     {
         // I'm gonna parse the file, and then hash'em 
@@ -67,5 +57,4 @@ class Markov_Sentence_Generator
 }
 
 $mg = new Markov_Sentence_Generator('file.txt');
-$sentence = $mg->generate_phrase();
-var_dump($sentence);
+echo($mg->generate_phrase());

@@ -3,13 +3,15 @@
     class Task
     { 
 	public string task_title;
+	public int status; // Status can be 0, 1 or 2 standing for to be done, doing and completed! 
 	private string task_description;
 	private DateTime task_creation;
 	private DateTime task_completion;
 	
-	public Task(string task_title, string task_description)
+	public Task(string task_title, string task_description, int status)
 	{
 	    this.task_title = task_title;
+		this.status = status; 
 	    this.task_description = task_description;
 	    this.task_creation = DateTime.Now;
 	}
@@ -17,14 +19,14 @@
 	{
 	    this.task_completion = DateTime.Now;   
 	}
-    }
+}
     
-    internal class Program 
-    {
-	static void Main(string[] args)
+	internal class Program 
 	{
-	    Frame fm = new Frame();
-	    fm.Draw();
+		static void Main(string[] args)
+		{
+			Frame fm = new Frame();
+			fm.Draw();
+		}
 	}
-    }
 }

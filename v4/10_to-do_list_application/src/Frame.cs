@@ -1,9 +1,20 @@
 class Frame
 {
     // ASCII => console 
-    public async void Draw()
+    public void Draw()
     {
-	// TO BE IMPLEMENTED
+        Console.Clear();
+        //  | Title | Status | Created on | Completed on | // 
+        Console.Write(" //  ");
+        Console.Write("  |  Title  |");
+        Console.Write("  Status  |");
+        Console.Write("  Created on  |");
+        Console.Write("  Completed on  |");
+        Console.Write("\n");
+        // while() {
+        //     Console.Write(" // ");
+        // }
+
     }
 }
 

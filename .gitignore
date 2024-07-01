@@ -8,3 +8,7 @@ v4/130_tron/.eslintrc.json
 .vscode/*
 v4/63_random_name_picker/node_modules/*
 *~
+bin/
+obj/
+/node_modules
+/wwwroot/node_modules

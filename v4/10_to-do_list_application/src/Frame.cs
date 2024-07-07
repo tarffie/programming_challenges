@@ -1,5 +1,9 @@
 class Frame
 {
+    public void say_hi() 
+    {
+        Console.Write("hello from Frame class!\n");
+    }
     // ASCII => console 
     public void Draw()
     {
@@ -11,10 +15,6 @@ class Frame
         Console.Write("  Created on  |");
         Console.Write("  Completed on  |");
         Console.Write("\n");
-        // while() {
-        //     Console.Write(" // ");
-        // }
-
     }
 }
 

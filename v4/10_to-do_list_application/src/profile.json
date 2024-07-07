@@ -1,0 +1,91 @@
+[
+    {
+	"title": "Water the plants",
+	"description": "Give all the indoor plants a good soak",
+	"status": 0,
+	"created": "2024-07-05T00:00:00",
+	"started": null,
+	"completed": null
+    },
+    {
+	"title": "Write a grocery list",
+	"description": "Check the fridge and pantry to see what needs to be restocked",
+	"status": 0,
+	"created": "2024-07-05T00:00:00",
+	"started": null,
+	"completed": null
+    },
+    {
+	"title": "Clean the bathroom",
+	"description": "Scrub the sink, toilet, and shower",
+	"status": 1,
+	"created": "2024-07-04T10:00:00",
+	"started": "2024-07-05T11:00:00",
+	"completed": null
+    },
+    {
+	"title": "Fix the leaky faucet",
+	"description": "Need to tighten the loose handle or replace the washer",
+	"status": 0,
+	"created": "2024-07-03T18:00:00",
+	"started": null,
+	"completed": null
+    },
+    {
+	"title": "Pay the electricity bill",
+	"description": "Log in to the online portal or mail a check",
+	"status": 2,
+	"created": "2024-07-02T15:00:00",
+	"started": "2024-07-04T12:00:00",
+	"completed": "2024-07-04T12:30:00"
+    },
+    {
+	"title": "Call mom for her birthday",
+	"description": "Don't forget to wish her a happy birthday!",
+	"status": 0,
+	"created": "2024-07-04T20:00:00",
+	"started": null,
+	"completed": null
+    },
+    {
+	"title": "Finish reading that book",
+	"description": "Only a few chapters left!",
+	"status": 1,
+	"created": "2024-06-25T19:00:00",
+	"started": "2024-07-03T22:00:00",
+	"completed": null
+    },
+    {
+	"title": "Go for a walk",
+	"description": "Get some fresh air and exercise",
+	"status": 2,
+	"created": "2024-07-05T08:00:00",
+	"started": "2024-07-05T08:30:00",
+	"completed": "2024-07-05T09:00:00"
+    },
+    {
+	"title": "Organize the desk",
+	"description": "Clear away clutter and put things where they belong",
+	"status": 0,
+	"created": "2024-07-04T17:00:00",
+	"started": null,
+	"completed": null
+    },
+    {
+	"title": "Vacuum the living room",
+	"description": "Pick up crumbs and dust bunnies",
+	"status": 0,
+	"created": "2024-07-02T10:00:00",
+	"started": null,
+	"completed": null
+    },
+    {
+	"title": "Mow the lawn",
+	"description": "Keep the grass trimmed and neat",
+	"status": 1,
+	"created": "2024-07-03T14:00:00",
+	"started": null,
+	"completed": null
+    },
+
+]

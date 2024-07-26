@@ -5,15 +5,7 @@ namespace Quest_List
     internal class Program {
 	static void Main(String[] args)  // {program} {command}
 	{
-	    string option; 
-	    string filepath = string.Empty;
-	    // if platform == linux, we should do some stuff different
-	    if(RuntimeInformation.IsOSPlatform(OSPlatform.Linux)) {
-		filepath = @"profile.json";
-	    } else {
-		Console.Write("Platform not supported yet, exiting..");
-		Environment.Exit(69);	
-	    }
+	    string filepath = @"profile.json";
 	    Profiler Profile = new Profiler(filepath);
 	    Profile.GetProfile();
 	    Environment.Exit(420);

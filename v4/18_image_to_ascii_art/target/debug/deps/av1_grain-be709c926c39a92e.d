@@ -1,0 +1,11 @@
+/home/maria/programmer/programming_challenges/v4/18_image_to_ascii_art/target/debug/deps/libav1_grain-be709c926c39a92e.rmeta: /home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/lib.rs /home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/create.rs /home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff.rs /home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff/solver.rs /home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff/solver/util.rs /home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/parse.rs /home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/util.rs
+
+/home/maria/programmer/programming_challenges/v4/18_image_to_ascii_art/target/debug/deps/av1_grain-be709c926c39a92e.d: /home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/lib.rs /home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/create.rs /home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff.rs /home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff/solver.rs /home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff/solver/util.rs /home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/parse.rs /home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/util.rs
+
+/home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/lib.rs:
+/home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/create.rs:
+/home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff.rs:
+/home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff/solver.rs:
+/home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/diff/solver/util.rs:
+/home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/parse.rs:
+/home/maria/.cargo/registry/src/index.crates.io-6f17d22bba15001f/av1-grain-0.2.3/src/util.rs:
